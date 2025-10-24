@@ -1,0 +1,18 @@
+server:
+  port: 8080
+spring:
+  profiles:
+    active: sqlserver
+  jackson:
+    serialization:
+      WRITE_DATES_AS_TIMESTAMPS: false
+
+jwt:
+  secret: ${JWT_SECRET:dev-secret-change-me-please-32bytes}
+  expiration-ms: 86400000
+
+
+# CORS para el frontend Vite en dev
+app:
+  cors:
+    origins: http://localhost:5173
