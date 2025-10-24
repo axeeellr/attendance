@@ -170,5 +170,15 @@ La aplicación estará disponible en:
 
 ---
 
+## Capturas de pantalla
+
+![Home Screen](screenshots/image.png)
+![Login Screen](screenshots/login.png)
+![Groups Screen](screenshots/groups.png)
+![Attendance Screen](screenshots/attendance.png)
+![Observations Screen](screenshots/observations.png)
+
+---
+
 **📘 Licencia:** Proyecto académico para fines educativos y de demostración.  
 © 2025 — Desarrollado por Universidad Don Bosco - Campus Soyapango.
