@@ -172,7 +172,7 @@ La aplicación estará disponible en:
 
 ## Capturas de pantalla
 
-![Home Screen](screenshots/image.png)
+![Home Screen](screenshots/home.png)
 ![Login Screen](screenshots/login.png)
 ![Groups Screen](screenshots/groups.png)
 ![Attendance Screen](screenshots/attendance.png)
